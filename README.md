@@ -1,4 +1,4 @@
-# Formulário em REACT
+# Ricky and Morty REACT
 
 ## 📷 Screenshot
 ![image](https://user-images.githubusercontent.com/83377646/235194894-76313e02-24e5-446f-b934-071fb7487596.png)
@@ -12,6 +12,7 @@ Projeto dedicado ao consumo de uma APU pública, usando o framework REACT
 - CSS3/SASS
 - JavaScript
 - REACT
+- API: https://rickandmortyapi.com/
 
 ## 🛠️ Como Usar
 - Clone este repositório em sua máquina local.
