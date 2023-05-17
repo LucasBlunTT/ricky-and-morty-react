@@ -12,16 +12,13 @@ Projeto dedicado ao consumo de uma API pública, usando o framework REACT
 - CSS3/SASS
 - JavaScript
 - REACT
-- API: https://rickandmortyapi.com/
+- API: https://prismic.io/
 
 ## 🛠️ Como Usar
 - Clone este repositório em sua máquina local.
 - Certifique-se de ter instalado todas as dependências necessárias com yarn install ou npm install.
 - Execute o projeto com o comando yarn dev.
-- Acesse o projeto em seu navegador pelo endereço http://localhost:5173/
+- Acesse o projeto em seu navegador pelo endereço http://localhost:3000/
 
 ## 📈 Status do projeto
 ✅ Concluído
-
-## 🔗 Links 
-- Site em produção: [Link](https://ricky-and-morty-react.netlify.app/ "Link")
