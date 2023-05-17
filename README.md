@@ -4,7 +4,7 @@
 
 
 ## 📋 Descrição do projeto
-Projeto dedicado ao consumo de uma APU pública, usando o framework REACT
+Projeto dedicado ao consumo de uma API pública, usando o framework REACT
 
 ## 💻 Tecnologias utilizadas
 - HTML5
